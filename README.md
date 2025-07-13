@@ -32,17 +32,6 @@
 </div>
 </p>
 
----
-
-### 📂 Projets récents
-
-| Projet | Description |
-|--------|-------------|
-| 🧑‍🎨 [**Portfolio personnel**](https://github.com/yacinelrf/portfolio) | Site vitrine en React + Sass + Bootstrap |
-| 🧩 [**UI Library**](https://github.com/yacinelrf/ui-lib) | Librairie de composants React réutilisables |
-| 🧪 [**Backend Java**](https://github.com/yacinelrf/java-backend) | API REST Java avec tests unitaires & bonne archi |
-
-<sub>💡 D'autres projets plus anciens sont aussi disponibles. Ils montrent mon évolution, so… be kind 😉</sub>
 
 ---
 
