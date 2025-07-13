@@ -68,9 +68,4 @@
   </a>
 </p>
 
----
 
-<p align="center">
-  <em>“Code like the next person to maintain your work is a violent psychopath who knows where you live.”</em><br/>
-  — <strong>John Woods</strong>
-</p>
