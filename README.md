@@ -19,8 +19,6 @@
 
 🎯 J’aime expérimenter de nouvelles technos, contribuer à des projets open-source, et faire évoluer mes compétences continuellement.
 
-⚠️ _Certains projets datent un peu (nostalgie oblige 😅). Si tu tombes sur un bug ou un souci, n’hésite pas à m’en faire part pour que je le corrige !_
-
 ---
 
 ### 🛠️ Stack & Outils
