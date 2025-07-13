@@ -1,7 +1,7 @@
 <h1 align="center">👋 Salut, moi c’est <strong>Yacine LARFI</strong></h1>
 
 <p align="center">
-  <em>Développeur passionné – Frontend, Backend & UI addict.</em><br/>
+
   <img src="https://komarev.com/ghpvc/?username=yacinelrf&style=flat-square&color=blueviolet" alt="Profile views" />
 </p>
 
