@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=yacinelrf&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yacinelrf&style=flat-square&color=blueviolet" alt="Profile views" /> 
 </p>
 
 ---
