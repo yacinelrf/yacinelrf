@@ -13,9 +13,6 @@
 
 🚀 Développeur web avec plus de **3 ans d’expérience**, je me spécialise dans :
 
-- Le **frontend** avec **React**, **Sass**, **Bootstrap**  
-- Le **backend** en **Java**
-- L’écriture de **code propre**, **testé** et **réutilisable**
 
 🎯 J’aime expérimenter de nouvelles technos, contribuer à des projets open-source, et faire évoluer mes compétences continuellement.
 
