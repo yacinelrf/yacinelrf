@@ -9,10 +9,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ccdc87a1-2025-4e86-b35a-50ce3717660d" alt="Wide Tool" width="100%">
 </div>
-### 🧑‍💻 À propos de moi
-
-🚀 Développeur web avec plus de **3 ans d’expérience**, je me spécialise dans :
-
 
 🎯 J’aime expérimenter de nouvelles technos, contribuer à des projets open-source, et faire évoluer mes compétences continuellement.
 
