@@ -11,16 +11,17 @@
 </div>
 
 🎓 Étudiant en Licence Informatique à l’Université Sorbonne Paris Nord (France)  
-📍 Ancien étudiant en Informatique à l’ESTIN Béjaïa (Algérie)  
-🚀 Intéressé par le développement logiciel, l’IA, les systèmes distribués et la cybersécurité  
-🌱 J’apprends en continu et j’aime contribuer à des projets open source  
+📍 Ancien étudiant à l’ESTIN Béjaïa (Algérie)  
+🧠 Passionné par l’intelligence artificielle, le Machine Learning et le Deep Learning  
+🚀 J’aime concevoir, expérimenter et contribuer à des projets open-source en lien avec l’IA  
+🌱 Toujours curieux d’apprendre, de coder et d’innover
 
 ---
 
 ### 🛠️ Stack & Outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,sass,bootstrap,js,ts,html,css,java,git,github,python,c,ocaml" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,git,github,c,ocaml" />
 </p>
 
 <div align="center">
