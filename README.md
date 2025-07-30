@@ -1,28 +1,31 @@
 <h1 align="center">👋 Salut, moi c’est <strong>Yacine LARFI</strong></h1>
 
 <p align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=yacinelrf&style=flat-square&color=blueviolet" alt="Profile views" />  
+  <img src="https://komarev.com/ghpvc/?username=yacinelrf&style=flat-square&color=blueviolet" alt="Profile views" />
 </p>
 
 ---
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ccdc87a1-2025-4e86-b35a-50ce3717660d" alt="Wide Tool" width="100%">
+  <img src="https://github.com/user-attachments/assets/ccdc87a1-2025-4e86-b35a-50ce3717660d" alt="Banner" width="100%">
 </div>
 
-🎯 J’aime expérimenter de nouvelles technos, contribuer à des projets open-source, et faire évoluer mes compétences continuellement.
+🎓 Étudiant en Licence Informatique à l’Université Sorbonne Paris Nord (France)  
+📍 Ancien étudiant en Informatique à l’ESTIN Béjaïa (Algérie)  
+🚀 Intéressé par le développement logiciel, l’IA, les systèmes distribués et la cybersécurité  
+🌱 J’apprends en continu et j’aime contribuer à des projets open source  
 
 ---
 
 ### 🛠️ Stack & Outils
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=react,sass,bootstrap,js,ts,html,css,java,git,github,python,c,ocaml" />
-  <div align="center">
-  <img src="https://github.com/user-attachments/assets/e7349707-d9e4-4bef-8c87-2981b669ec4a" alt="Bootstrap_logo" width="500">
-</div>
+  <img src="https://skillicons.dev/icons?i=react,sass,bootstrap,js,ts,html,css,java,git,github,python,c,ocaml" />
 </p>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e7349707-d9e4-4bef-8c87-2981b669ec4a" alt="Stack image" width="500">
+</div>
 
 ---
 
@@ -35,10 +38,6 @@
 </div>
 
 ---
-
-
-<br>
-
 
 ### 🏆 Trophées
 
@@ -58,5 +57,3 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-
