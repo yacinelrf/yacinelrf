@@ -21,7 +21,7 @@
 ### 🛠️ Stack & Outils
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,git,github,c,ocaml,sql,mysql,postgres,mongodb,tensorflow,pytorch" />
+ <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,git,github,c,ocaml,mysql,postgres" />
 
 </p>
 
