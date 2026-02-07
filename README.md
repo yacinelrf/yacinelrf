@@ -12,7 +12,6 @@
 
 🎓 Étudiant en Licence Informatique à l’Université Sorbonne Paris Nord (France)  
 📍 Ancien étudiant à l’ESTIN Béjaïa (Algérie)  
-🧠 Passionné par l’intelligence artificielle, le Machine Learning et le Deep Learning  
 🚀 J’aime concevoir, expérimenter et contribuer à des projets open-source en lien avec l’IA  
 🌱 Toujours curieux d’apprendre, de coder et d’innover
 
